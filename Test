@@ -1,0 +1,262 @@
+<div class="slides">
+    <section>
+        <h1>Enhancing Organizing with data and Technology</h1>
+<div>
+        <br>
+        </div>
+<div>Brad Lichtenstein, BizVizz</div>
+<div>Amy Ngai, Sunlight Foundation</div>
+    </section>
+    <section>
+        <section>
+            <h2>Who we are</h2>
+<div>
+            <br>
+        </div>
+<div class="absolute-element" style="position: absolute; width: 897px; height: 375px; z-index: 4; left: 36px; top: 160px;">
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22358/Screen_Shot_2013-06-04_at_1.25.40_PM.png" style="width: 274px;">
+        <img src="http://assets.sunlightfoundation.com/logos/2013/SunlightFoundation-logo.png" style="height: 192px;">
+</div>
+    </section>
+    <section>
+        <h2>Now that we know who we are</h2>
+<div>
+        <br>
+    </div>
+<div>
+    <br>
+</div>
+<div>
+<br>
+</div>
+<div>
+<br>
+</div>
+<div>Who are you?</div>
+</section>
+</section>
+<section>
+    <section>
+        <h2>What is Data?</h2>
+<div>
+<br>
+</div>
+<div class="fragment" data-fragment-index="0">Examples of data</div>
+<div>
+        <ul>
+<li class="fragment" data-fragment-index="1">.xls(x)</li>
+<li class="fragment" data-fragment-index="2">.csv</li>
+<li class="fragment" data-fragment-index="3">.xml</li>
+<li class="fragment" data-fragment-index="4">APIs</li>
+</ul>
+    </div>
+<div>
+<br>
+</div>
+<div class="fragment" data-fragment-index="5">
+<a href="http://sunlightfoundation.com/api/" target="_blank">Sunlight's APIs</a>
+</div>
+
+
+</section>
+    <section>
+        <h2>What can you do with data?</h2>
+<div>
+    <br>
+</div>
+<div>
+<br>
+        <br>
+</div>
+<div>
+    <ul>
+<li class="fragment" data-fragment-index="0">
+                <a href="http://dirtyenergymoney.com/" target="_blank">Dirty Energy Money</a>
+            </li>
+            <li class="fragment" data-fragment-index="1">
+                <a href="http://docs.argoproject.org/2011/12/20/stateimpact-adding-lawmakerlegislation-widgets/" target="_blank">State Impact</a>
+            </li>
+            <li class="fragment" data-fragment-index="2">
+                <a href="http://www.phonebank.org/" target="_blank">Phonebank.org</a>
+            </li>
+        
+    </ul>
+</div>
+
+</section>
+    </section>
+    <section>
+        <section>
+            <h2 class="absolute-element" style="position: absolute; width: 968px; height: 612px; z-index: 4; left: 1px; top: -2px;">How a movie inspired a data app</h2>
+
+
+<div class="absolute-element visible" style="position: absolute; width: 528px; height: 527px; z-index: 4; left: -71px; top: 91px;" data-fragment-index="1">
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22362/AGJ_POSTER072612.jpeg" style="height: 495px;">
+</div>
+<div class="absolute-element fragment" style="position: absolute; width: 528px; height: 527px; z-index: 4; right: -71px; top: 91px;" data-fragment-index="1">
+
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22366/480_Subsidies.jpg" style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: normal; text-align: center; color: rgb(238, 238, 238); height: 526px;">
+</div>
+
+
+
+
+
+
+
+</section>
+            <section>
+                <h2>As Goes JanesVille</h2>
+<div>(video clip)</div>
+<div>
+                <br>
+            </div>
+<div>
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22369/Screen_Shot_2013-06-04_at_11.40.32_PM.png" style="">
+            <br>
+</div>
+<div>
+            <br>
+        </div>
+    </section>
+    <section>
+        <h2>
+    <a href="http://bizvizz.com/">BizVizz.com</a>
+</h2>
+<div>
+    <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22382/480_Explore_profit.jpg" target="_blank" style="">
+        <br>
+</div>
+</section>
+        <section>
+            <h2 class="absolute-element" style="position: absolute; width: 557px; height: 78px; z-index: 4; left: 202px; top: 16px;">Partner organizations</h2>
+<div>
+    <br>
+</div>
+<div class="fragment" data-fragment-index="0">
+    <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22377/ITVS.jpg" style="height: 94px;">
+            <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22381/AFL-CIO-logo.jpg" style="width: 152px;">
+            <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22370/United_for_a_Fair_Economy_logo.jpg" style="height: 120px;">&nbsp;<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22372/Were_Not_Broke.jpg" style="height: 209px;">
+            <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22373/US-PIRG.jpg" style="width: 180px;">
+            <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22371/Working_Films.jpg" style="height: 86px;">
+            <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22374/Tax_Justice_Network.jpg" style="height: 109px;">
+            <span>&nbsp;</span>
+            <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22378/Faculty.jpg" style="width: 134px;">
+            <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22376/Kartemquin_Films.jpg" style="height: 137px;">
+            <a href="http://data.influenceexplorer.com/api" target="_blank">
+                <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22375/Sunlight_Foundation.jpg" style="width: 288px;">
+            </a>
+            <span>
+    </span>
+            <span>&nbsp;</span>
+            <span>&nbsp;</span>
+            <a href="http://www.goodjobsfirst.org/subsidy-tracker" target="_blank">
+                <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22379/Good_Jobs_First.jpg" style="height: 131px;">
+            </a>
+            <span>
+    </span>
+            <a href="http://ctj.org/ctjreports/2011/11/corporate_taxpayers_corporate_tax_dodgers_2008-2010.php#.Ua61bGQ4XaF" target="_blank">
+        <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/amyngai/images/22380/CTJ.jpg" style="height: 108px;">
+        </a>
+</div>
+<div>
+        <span>
+        </span>
+    </div>
+</section>
+</section>
+<section>
+    <h2>From Idea to reality...</h2>
+<div>How did BizVizz make it happen?</div>
+<div>
+    <br>
+</div>
+<div>
+<br>
+</div>
+<div>
+<br>
+</div>
+<div>
+<ul>
+<li>Design process- flowing from clear goals</li>
+<li>Practical considerations</li>
+</ul>
+</div>
+</section>
+<section>
+    <h2>another note on partnerships</h2>
+<div>
+    <br>
+</div>
+<div>Why do they matter?&nbsp;</div>
+<div>
+<br>
+</div>
+<div>
+<ul>
+<li>access to data</li>
+<li>promotion</li>
+<li>potential for collaborative actions</li>
+</ul>
+</div>
+</section>
+<section>
+    <h2>RootStriker/bizvizz action</h2>
+<div>
+ <iframe src="http://www.youtube.com/embed/ZfO9hEjje7Q" allowfullscreen="" frameborder="0" height="315" width="420">&amp;nbsp;</iframe>
+ <iframe src="http://www.youtube.com/embed/6N_VcmXTKuE" allowfullscreen="" frameborder="0" height="315" width="420">&amp;nbsp;</iframe>
+</div>
+</section>
+<section>
+    <h2>Sunlight Data you can use</h2>
+<div class="fragment" data-fragment-index="0">Right now</div>
+<div>
+    <br>
+</div>
+<div>
+    <br>
+</div>
+<div>
+    <ul>
+<li class="fragment" data-fragment-index="1">
+<a href="http://influenceexplorer.com/" target="_blank">Influence Explorer</a>
+</li>
+<li class="fragment" data-fragment-index="2">
+            <a href="http://capitolwords.org/term/taxes/?search=1" target="_blank">Capitol Words</a>
+        </li>
+        <li class="fragment" data-fragment-index="3">
+            <a href="http://openstates.org/all/search/?search_text=tax+increase" target="_blank">Open States</a>
+        </li>
+        <li class="fragment" data-fragment-index="4">
+            <a href="https://scout.sunlightfoundation.com/search/all/tax%20subsidy" target="_blank">Scout</a>
+        </li>
+    </ul>
+<div style="text-align: left;">
+        <br>
+</div>
+</div>
+
+
+
+
+</section>
+    <section>
+        <h2>Brainstorm</h2>
+<div>
+        <br>
+    </div>
+<div>
+    <br>
+</div>
+<div class="fragment" data-fragment-index="0">What other types of relevant open data is available?</div>
+<div>
+<br>
+</div>
+<div class="fragment" data-fragment-index="1">What tools would be helpful in your work?</div>
+<div>
+<br>
+</div>
+<div class="fragment" data-fragment-index="2">What is out there and what can you imagine you can build?</div>
+</section>
+</div>
